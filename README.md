@@ -12,7 +12,8 @@
 <br>
 <br>
 
-## Install library
+## Installation
+Install from extensions (`ctrl + shift + x` or `cmd + shift + x` on mac).
 ```
 $ pip install names
 ```
