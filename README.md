@@ -1,2 +1,11 @@
 # Project Work traccia 2.1 - Ruolo della privacy e sull'importanza del GDPR - Raffaele Venuso
-Repository per PW 2.1 Unipegaso - GDPR
+## Languages
+- Python
+<br>
+<br>
+## Components (in Project)
+- pandas
+- sqllite3
+- xlsxwriter
+<br>
+<br>
