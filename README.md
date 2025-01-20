@@ -29,4 +29,5 @@ $ pip install xlswriter
 ```
 
 ## Istruction
-- Launch the file "excel.py", it will create an Excel file called "Anagrafiche.xlsx" containing the personal data generated randomly;
+- Launch the file `ProjectWork/excel.py`, it will create an Excel file called "**Anagrafiche.xlsx**" containing the personal data generated randomly:
+  ![Example-streamlit](images/file_anagrafiche.png)
