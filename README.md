@@ -11,3 +11,20 @@
 - names
 <br>
 <br>
+
+## Install library
+```
+$ pip install names
+```
+
+```
+$ pip install sqllite3
+```
+
+```
+$ pip install pandas
+```
+
+```
+$ pip install xlswriter
+```
