@@ -8,5 +8,6 @@
 - pandas
 - sqllite3
 - xlsxwriter
+- names
 <br>
 <br>
