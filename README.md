@@ -2,14 +2,12 @@
 ## Languages
 - Python
 <br>
-<br>
 
 ## Components (in Project)
 - pandas
 - sqllite3
 - xlsxwriter
 - names
-<br>
 <br>
 
 ## Installation
@@ -29,3 +27,6 @@ $ pip install pandas
 ```
 $ pip install xlswriter
 ```
+
+## Istruction
+- Launch the file "excel.py", it will create an Excel file called "Anagrafiche.xlsx" containing the personal data generated randomly;
