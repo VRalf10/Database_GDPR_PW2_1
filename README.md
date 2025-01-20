@@ -31,3 +31,7 @@ $ pip install xlswriter
 ## Istruction
 - Launch the file `ProjectWork/excel.py`, it will create an Excel file called "**Anagrafiche.xlsx**" containing the personal data generated randomly:
   ![Example-streamlit](images/file_anagrafiche.png)
+
+- Launch the file `ProjectWork/database.py`, a database will be created (`ProjectWork/project_work.db`) with a table having the same structure of the excel file, also it will make an insertion query starting from the excel file:
+  ![Example-streamlit](images/database.png)
+  
