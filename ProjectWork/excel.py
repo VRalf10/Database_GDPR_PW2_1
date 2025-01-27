@@ -3,7 +3,7 @@ import random
 import xlsxwriter
 
 def gen_numbers():
-    allowed_numbers = '658034'
+    allowed_numbers = '0123456789'
     indx = '(+39)331'
     for i in range(7):
         indx += allowed_numbers[random.randint(0, len(allowed_numbers) - 1)]
